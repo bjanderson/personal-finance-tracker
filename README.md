@@ -1,5 +1,9 @@
 # Personal Finance Tracker
 
+_Disclaimer: I am not a financial advisor, and this document/spreadsheet is not financial advice. For help with planning your finances please consult a professional financial advisor._
+
+---
+
 The secret to having good personal financial health is to simply keep track of where your money is, where it comes from, and where it goes to.
 This is a spreadsheet document designed to help you do just that.
 
@@ -8,8 +12,6 @@ The macros are mostly just focused on stamping out the templates and setting up 
 Once you understand how everything works, you can easily modify everything however you want to.
 
 Let's get you started with your own copy of the document.
-
------
 
 ## Installation
 
@@ -54,28 +56,119 @@ Now close the document and re-open it so the macro security settings take effect
 
 ## Overview
 
-### Summary
+### Summary Page
+
+The Summary page is where you can see all your financial details in one place. You should use the information from your summary to create a budget, and determine how close you are to achieving your goals.
+
+If you need to make changes to your financial habits, the summary will show you where you need to make those changes.
 
 #### Balance Sheet
 
+The Balance Sheet tells you where your money is at. It contains a list of all your accounts, and your balance in each account. The Balance Sheet allows you to measure if you are reaching your financial goals or not.
+
+The Balance Sheet tells you three important pieces of information: your total assets, your total liabilities, and your net worth.
+
+Your assets are money you own.
+
+Your liabilities are money you owe.
+
+Your net worth is your total assets minus your total liabilities - or how much money you will have left after you pay off all your debts.
+
+If you have a negative net worth, then you owe more money than you have.
+
+If you have a positive net worth, then you have more money than you owe.
+
+You want to have a positive net worth!
+
 #### Income Statement
 
-### Controls
+The Income Statement tells you where you money comes from, and where it goes to. It contains a list of categories for your income and expenses. The Income Statment is the tool to use for creating a budget and making sure that you stick to it.
+
+The Income Statement also tells you three important pieces of information: your total income, your total expenses, and your net income.
+
+Your total income is all the money you received.
+
+Your total expenses is all the money you paid.
+
+Your net income is the amount of income you have left over after paying all your expenses.
+
+If you have a negative net income it means you are spending more than you are earning.
+
+If you have a positive net income it means you are earning more than you are spending.
+
+You want to have a positive net income!
+
+### Controls Page
+
+The controls page has buttons that allow you to run a few special macros.
 
 #### Add Account
 
+The Add Account button allows you to add a new account to your document. You simply give the account a unique name (don't have two accounts with the exact same name), and choose the type of account it is.
+
+Each account type generates a different type of template.
+
+The account types are specified as either Assets or Liabilities, and when you create a new account, it will automatically be added to the Summary Balance Sheet in the correct section.
+
 ##### Account Types
+
+- Checking - Asset
+- Credit Card - Liability
+- Equity - Asset
+- Investment - Asset
+- Loan - Liability
+- Mortgage - Both*
+- Savings - Asset
+
+* When you create a mortgage account, a corresponding equity account will be generated automatically. The mortgage account allows you to track your loan, and the equity account allows you to keep track of the value of the property. Both parts are added to the Summary Balance Sheet so that you have a full view of the property as both an asset and a liability.
 
 #### Remove Account
 
+The Remove Account button allows you to remove an account.
+
+The account will automatically be removed from the Summary page as well.
+
 #### Add Category
+
+The Add Category button allows you to create a new Income Statement category.
+
+Use this to customize your income statement to reflect your budget categories.
+
+When you add a new category, the income statement for each account, and on the Summary page will be regenerated in order to include it.
 
 ##### Category Types
 
+Category Types come in four different flavors.
+
+- Income
+- Expenses
+- Transfer
+- Ignore
+
+Income and Expenses are self-explanitory.
+
+Transfer is when you move money from one account to another, such as from your checking account to your savings account, or when you make a credit card payment. It's not actually an income or an expense, it's a transfer.
+
+Ignore is a category I rarely use, but every once in a while you might recieve a large inheritance or make a large purchase that you don't want to skew your Income Statment numbers. You can either make a category for "Large Income" or "Large Expense" or just ignore them. It's up to you.
+
 #### Remove Category
 
-### Data
+The Remove Category button allows you to remove an Income Statement category.
 
-### Plan
+The category will automatically be removed from all account income statements, and the Summary page as well.
 
-## How To Use It
+### Data Page
+
+The Data Page is not meant to be used by you. It's an internal data storage area for the macros to use.
+
+If you edit it, you might break something, so I would avoid touching it unless you know what you're doing.
+
+### Plan Page
+
+The Plan page is a rough draft of a personal financial plan.
+
+I threw it together as an example of how you might set up your own financial plan.
+
+It might not seem too relevant at first, but once you start tracking your finances and seeing your actual numbers, you will probably want to take more control over you financial life. The Plan page will help you set goals and keep yourself on track. Make it your own.
+
+## How To Use The Personal Finance Tracker
