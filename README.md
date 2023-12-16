@@ -13,6 +13,8 @@ Once you understand how everything works, you can easily modify everything howev
 
 Let's get you started with your own copy of the document.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfqJBERSQxQ?si=TEW1jGtS1KgxmWeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Installation
 
 ### Install LibreOffice
