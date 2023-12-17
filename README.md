@@ -14,7 +14,7 @@ Once you understand how everything works, you can easily modify everything howev
 Let's get you started with your own copy of the document.
 
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=gfqJBERSQxQ">
+  <a href="https://www.youtube.com/watch?v=gfqJBERSQxQ" target="_blank">
     <img src="https://img.youtube.com/vi/gfqJBERSQxQ/0.jpg" style="width:100%;">
   </a>
 </div>
