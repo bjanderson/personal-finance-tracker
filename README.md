@@ -13,14 +13,12 @@ Once you understand how everything works, you can easily modify everything howev
 
 Let's get you started with your own copy of the document.
 
+You can watch the video instructions here: https://www.youtube.com/watch?v=gfqJBERSQxQ
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=gfqJBERSQxQ" target="_blank">
     <img src="https://img.youtube.com/vi/gfqJBERSQxQ/0.jpg" style="width:100%;">
   </a>
-
-  <div style="height: 3rem; margin-top:-4rem">
-    <img src="./youtubelogo.png" alt="YouTube Logo">
-  </div>
 </div>
 
 ## Installation
